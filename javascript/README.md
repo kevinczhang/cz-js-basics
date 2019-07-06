@@ -4,5 +4,3 @@ description: "JavaScript is\_an object-based scripting language\_that is lightwe
 
 # Javascript
 
-## 
-
