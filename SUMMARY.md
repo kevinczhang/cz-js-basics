@@ -12,4 +12,6 @@
   * [Math](javascript/math.md)
 * [Typescript](typescript/README.md)
   * [Basic Types](typescript/basic-types.md)
+* [Lodash](lodash/README.md)
+  * [Array](lodash/array.md)
 
