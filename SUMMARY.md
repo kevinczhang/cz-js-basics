@@ -12,6 +12,7 @@
   * [Math](javascript/math.md)
 * [Typescript](typescript/README.md)
   * [Basic Types](typescript/basic-types.md)
+  * [Variable Declarations](typescript/variable-declarations.md)
 * [Lodash](lodash/README.md)
   * [Collection](lodash/collection.md)
   * [Array](lodash/array.md)
