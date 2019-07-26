@@ -14,6 +14,7 @@
   * [Basic Types](typescript/basic-types.md)
   * [Variable Declarations](typescript/variable-declarations.md)
   * [Interfaces](typescript/interfaces.md)
+  * [Classes](typescript/classes.md)
 * [Lodash](lodash/README.md)
   * [Collection](lodash/collection.md)
   * [Array](lodash/array.md)
