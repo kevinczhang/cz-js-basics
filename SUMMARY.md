@@ -34,4 +34,5 @@
 ## Tools
 
 * [Webpack](tools/webpack.md)
+* [Babel](tools/babel.md)
 
