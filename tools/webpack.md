@@ -8,6 +8,18 @@ description: >-
 
 When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more _bundles_.
 
+**webpack is a module bundler** and **has a broader definition of what a module is**, specifically, for webpack, modules are:
+
+* Common JS modules
+* AMD modules
+* CSS import
+* Images url
+* ES modules
+
+That is, webpack is able to ingest **dependencies** from any of these sources.
+
+The ultimate goal of webpack is to **unify all these different sources and module types** in a way that's possible to **import everything in your JavaScript code**, and finally produce a shippable output.
+
 ## Entry
 
 An **entry point** indicates which module webpack should use to begin building out its internal dependency graph. webpack will figure out which other modules and libraries that entry point depends on \(directly and indirectly\).
